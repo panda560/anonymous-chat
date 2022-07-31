@@ -1,7 +1,7 @@
 let handler = async m => m.reply(` 
 ╭─「 *Donasi* 」 
-│ • https://saweria.co/ariffb
-│ • https://trakteer.id/ariffb/tip
+│ • Gopay : +62 812-7367-7810
+│ • XL ke nomor Angga : +62 819-5929-3465
 ╰────
 `.trim())
 handler.help = ['donasi']
